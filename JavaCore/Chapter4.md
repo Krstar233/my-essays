@@ -70,5 +70,3 @@ class Employee{
   ```java
   import static java.lang.System.*;
   ```
-
-
