@@ -23,16 +23,11 @@ date: 2021-3-8 16:30:20
 - [项目链接](https://github.com/Krstar233/OnlineEducation)
 - 项目简介：在线课程平台，分成了前台页面和后台管理页面两部分
 - 做这个项目的目的主要是为了熟悉主流后端开发的开发流程和熟悉springboot，选用了微服务的架构，模仿网上的课程，并结合自己的想法进行修改和独立开发。
-
-- ***在线Demo演示***：【[点击进入后台管理页面](http://krits.fun:3002/#/teacher/table) 用户名：admin 密码：admin】【[点击进入前台页面](http://krits.fun:3001)（施工中...）】
-
 - 后台管理页面
 [![6QDIVH.png](https://s3.ax1x.com/2021/03/08/6QDIVH.png)](https://imgtu.com/i/6QDIVH)
-
 - 前台页面
 [![6QDzZQ.png](https://s3.ax1x.com/2021/03/08/6QDzZQ.png)](https://imgtu.com/i/6QDzZQ)
 [![6QrtdH.png](https://s3.ax1x.com/2021/03/08/6QrtdH.png)](https://imgtu.com/i/6QrtdH)
-
 - 项目使用到的技术：
 	- 前端：后台管理页面使用了基于Vue的[管理模板](https://github.com/PanJiaChen/vue-admin-template)；前台页面也套用了一个基于nuxt的模板进行开发；使用element-ui绘制和编排表单样式；
 	- 后端：使用springboot、mybatis-plus持久化、nginx反向代理分发请求、Swagger生成接口文档、阿里云oss对象存储、阿里云视频点播服务、maven管理项目、redis缓存等；
@@ -93,7 +88,7 @@ date: 2021-3-8 16:30:20
 ![6Qso9I.png](https://s3.ax1x.com/2021/03/08/6Qso9I.png)
 ![6QsOHg.png](https://s3.ax1x.com/2021/03/08/6QsOHg.png)
 
---- 
+---
 
 ### 贪吃蛇游戏（Unity）
 - [项目链接](https://gitee.com/krits/krits-code-workplace/tree/master/Old-Code/%E7%BB%83%E6%89%8B%E9%A1%B9%E7%9B%AE/Unity%E9%A1%B9%E7%9B%AE/%E8%B4%AA%E5%90%83%E8%9B%87%20v1.0.2)
