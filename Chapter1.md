@@ -1,4 +1,9 @@
-# Java程序设计概述
+---
+title: Java程序设计概述
+date: 2021-3-3 16:30:00
+tags:
+- Core Java Volume学习笔记
+---
 ### Java"白皮书"关键术语
 - 简单性
 - 面向对象
