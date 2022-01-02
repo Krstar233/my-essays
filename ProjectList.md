@@ -23,8 +23,6 @@ date: 2022-1-2 00:00:00
 
 react+express下接OSS的图床项目，提供图片托管服务，将上传的图片转换成可访问的URL链接，方便个人编写markdown博客使用。
 
-[demo网址](http://imgoss.krits.fun/)
-
 ![](http://krits-image-oss.oss-cn-guangzhou.aliyuncs.com/1c648b6117bb72cafbeb4be1f4fb7eb9.png)
 
 ### 在线课程平台
